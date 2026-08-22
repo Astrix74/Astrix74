@@ -9,4 +9,4 @@ CS student at Fuzhou University. I build things end to end — Kotlin/Ktor backe
 ---
 Most of my repositories are private while in development — happy to walk through any of them.
 
-<!-- Contact: add exactly one (email or blog) once you decide what to publicize. -->
+Contact: guistar1532894220@gmail.com
